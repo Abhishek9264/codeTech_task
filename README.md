@@ -1,9 +1,15 @@
 Name:ABHISHEK RANJAN
+
 Company:CODETECH IT SOLUTIONS
+
 ID:CT08DS6502
+
 Domain:Data Science
+
 Duration:August to September 2025
+
 Mentor:Muzammil Ahmed
+
 **OverView of Project**
 **Iris Dataset Analysis**
 This project involves a detailed analysis and visualization of the Iris dataset using Python libraries such as Pandas, Seaborn, and Matplotlib. The Iris dataset is a classic dataset in the field of machine learning and statistics, often used for exploratory data analysis and visualization.
