@@ -37,5 +37,6 @@ ram**: FacetGrid to plot histograms of Petal Length, separated by species.
 **Bar Plot**: Bar plot showing the average Petal Length for each species with standard deviation error bars.
 ![Screenshot 2024-08-31 180907](https://github.com/user-attachments/assets/8fe11d92-dc07-428f-989d-3f70bbb909d0)
 ![Screenshot 2024-08-31 180932](https://github.com/user-attachments/assets/2b5684b6-1954-477e-a78a-5cf70ab88fa8)
+![Screenshot 2024-08-31 180851](https://github.com/user-attachments/assets/3f4b71c3-1424-4722-8690-f4620e33e884)
 
 
